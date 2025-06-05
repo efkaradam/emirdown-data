@@ -1,0 +1,7 @@
+{
+  "games": [
+    { "name": "GTA V", "url": "https://example.com/gta" },
+    { "name": "FIFA 24", "url": "https://example.com/fifa" },
+    { "name": "Minecraft", "url": "https://example.com/minecraft" }
+  ]
+}
